@@ -1,0 +1,18 @@
+.tableview{
+    margin:0px auto;
+    max-width: 900px;
+   
+}
+table{
+    margin:0px auto;
+}
+.tableview .row th{
+   padding: 0px 70px;
+}
+.row-text{
+    display: flex;
+    align-items: center;
+}
+.row-text td{
+    padding: 0px 50px;
+}
